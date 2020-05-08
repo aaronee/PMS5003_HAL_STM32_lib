@@ -1,4 +1,4 @@
-# PMS5003_HAL_STM32_lib-
+# PMS5003_HAL_STM32_lib
  *	@Created on: May, 05, 2020
  *  @Author: AARONEE - khoahuynh
  * 	@Email: khoahuynh.ld@gmail.com
