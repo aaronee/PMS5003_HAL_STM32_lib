@@ -1,8 +1,8 @@
 # PMS5003_HAL_STM32_lib
- ##	Created on: May, 05, 2020
- ## @Author: AARONEE - khoahuynh
- ##	Email: khoahuynh.ld@gmail.com
- ##	[GitHub](https://github.com/aaronee)
+ ###	Created on: May, 05, 2020
+ ### @Author: AARONEE - khoahuynh
+ ###	Email: khoahuynh.ld@gmail.com
+ ###	[GitHub](https://github.com/aaronee)
 
  *	@Introduction:
  1. This is the library writen for air sensor PMS5003
