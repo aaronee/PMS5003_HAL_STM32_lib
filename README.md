@@ -5,7 +5,7 @@
  * 	@Github: https://github.com/aaronee
  *
  *
- *	@Introduction: This file belongs to PMS5003_HAL_STM32 library
+ *	@Introduction:
  *	> This is the library writen for air sensor PMS5003
  *	> This library is based on STM32 HAL library. You must use STM32 HAL library to use this library
  *	@MainFunction:
