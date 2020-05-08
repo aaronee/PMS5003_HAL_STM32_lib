@@ -6,16 +6,16 @@
  *
  *
  *	@Introduction: This file belongs to PMS5003_HAL_STM32 library
- *				> This is the library writen for air sensor PMS5003
- *				> This library is based on STM32 HAL library. You must use STM32 HAL library to use this library
+ *	> This is the library writen for air sensor PMS5003
+ *	> This library is based on STM32 HAL library. You must use STM32 HAL library to use this library
  *	@MainFunction:
- *				> Initializing air sensor with selected mode
- *				> Sleep sensor
- *				> Wake-up sensor
- *				> Perform verify checksum
- *				> Read data from sensor
- *
- *
+ *	> Initializing air sensor with selected mode
+ *	> Sleep sensor
+ *	> Wake-up sensor
+ *	> Perform verify checksum
+ *	> Read data from sensor
+
+
  *	Copyright (C) 2020 - Khoa Huynh
  *  This is a free software under the GNU license, you can redistribute it and/or modify it under the terms
  *	of the GNU General Public Licenseversion 3 as published by the Free Software Foundation.
