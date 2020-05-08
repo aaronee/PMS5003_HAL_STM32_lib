@@ -18,7 +18,7 @@
  This is PMS5003 output of the example
  
  ![PMS5003_output]
- (https://i.imgur.com/0tKqUBT.png)
+(https://i.imgur.com/0tKqUBT.png)
 
  *	Copyright (C) 2020 - Khoa Huynh
  *  This is a free software under the GNU license, you can redistribute it and/or modify it under the terms
