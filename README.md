@@ -16,6 +16,7 @@
  *	> Read data from sensor
  
  This is PMS5003 output of the example
+ 
  ![PMS5003_output]
  (https://i.imgur.com/0tKqUBT.png)
 
