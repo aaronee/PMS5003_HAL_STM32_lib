@@ -5,8 +5,8 @@
 	[GitHub](https://github.com/aaronee)
 
 ## Introduction:
-* This is the library writen for air sensor PMS5003
-* This library is based on STM32 HAL library. You must use STM32 HAL library to use this library 
+* This is the library writen for the air sensor PMS5003
+* This library is based on STM32 HAL library. You must implement STM32 HAL library to use this library 
 
 ## MainFunction:
 1. Initializing air sensor with selected mode
